@@ -1,0 +1,70 @@
+/**POLICES**/
+@font-face {
+    font-family: 'Monserrat';
+    src: url('/polices/Montserrat-VariableFont_wght.ttf') format('truetype'),
+}
+
+@font-face {
+    font-family: 'Monserrat';
+    font-style: italic;
+    src: url('polices/Montserrat-Italic-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('polices/OpenSans-VariableFont_wdth,wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-style: italic;
+    src: url('/polices/OpenSans-Italic-VariableFont_wdth,wght.ttf') format('truetype');
+}
+/**COULEURS**/
+.color1 {
+    color: #ffffff;
+}
+.color2 {
+    color: #fab637;
+}
+.color3 {
+    color: #ff4848;
+}
+.color4 {
+    color: #cc6119;
+}
+.color5 {
+    color: #ECEFF3 ;
+}
+.color6 {
+    color: #232628  ;
+}
+.color7 {
+    color: #6C98E1  ;
+}
+
+
+/**BACKGROUND*/
+.bg1 {
+    background-color: #ffffff;
+}
+.bg2 {
+    background-color: #fab637;
+}
+.bg3 {
+    background-color: #ff4848;
+}
+.bg4 {
+    background-color: #cc6119;
+}
+.bg5 {
+    background-color: #ECEFF3;
+}
+.bg6 {
+    background-color: #232628;
+}
+.bg7 {
+    background-color: #6C98E1;
+}
+
+
